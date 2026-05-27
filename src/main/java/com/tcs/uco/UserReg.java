@@ -8,6 +8,7 @@ public class UserReg {
 		String encode = p.encode("Ranjan");
 		System.out.println(encode);
 		System.out.println("hello");
+		System.out.println("for stash test");
 
 	}
 
