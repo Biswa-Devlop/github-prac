@@ -7,6 +7,7 @@ public class UserReg {
 		PwdSecurityService p = new PwdSecurityService();
 		String encode = p.encode("Ranjan");
 		System.out.println(encode);
+		System.out.println("hello");
 
 	}
 
